@@ -14,6 +14,11 @@
 
 <h3 align="left">Latest Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [DRY Principle: The Dos and Don&#39;ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-the-dos-and-donts-of-object-oriented-design)
+- [Creating PUT Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-put-endpoints-with-spring-boot-a-quick-guide)
+- [Creating POST Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-post-endpoints-with-spring-boot-a-quick-guide)
+- [Creating GET Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-get-endpoints-with-spring-boot-a-quick-guide)
+- [Creating DELETE Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-delete-endpoints-with-spring-boot-a-quick-guide)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elkamphy&show_icons=true&locale=en&layout=compact" alt="elkamphy" /></p>
