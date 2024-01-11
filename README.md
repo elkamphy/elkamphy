@@ -19,5 +19,10 @@
 - [Creating POST Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-post-endpoints-with-spring-boot-a-quick-guide)
 - [Creating GET Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-get-endpoints-with-spring-boot-a-quick-guide)
 - [Creating DELETE Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-delete-endpoints-with-spring-boot-a-quick-guide)
+- [5 Steps to Integrate Maven with SonarQube for Effective Quality Assurance](https://nkamphoa.com/5-steps-to-integrate-maven-with-sonarqube-for-effective-quality-assurance)
+- [5 Effective Methods in Java to Remove Array Duplicates while Preserving Original Order](https://nkamphoa.com/5-effective-methods-in-java-to-remove-array-duplicates-while-preserving-original-order)
+- [How I passed the AWS Certified Solutions Architect - Associate Exam](https://nkamphoa.com/how-i-passed-the-aws-certified-solutions-architect-associate-exam)
+- [Bug detection with SpotBugs in a Maven application](https://nkamphoa.com/bug-detection-with-spotbugs-in-a-maven-application)
+- [How to generate Code Coverage Report using Jacoco in a Java application](https://nkamphoa.com/how-to-generate-code-coverage-report-using-jacoco-in-a-java-application)
 <!-- BLOG-POST-LIST:END -->
 
