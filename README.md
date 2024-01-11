@@ -21,9 +21,3 @@
 - [Creating DELETE Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-delete-endpoints-with-spring-boot-a-quick-guide)
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elkamphy&show_icons=true&locale=en&layout=compact" alt="elkamphy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elkamphy&show_icons=true&locale=en" alt="elkamphy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elkamphy&" alt="elkamphy" /></p>
-
