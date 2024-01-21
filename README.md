@@ -14,15 +14,15 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [DRY Principle: The Dos and Don&#39;ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-the-dos-and-donts-of-object-oriented-design)
-- [Creating PUT Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-put-endpoints-with-spring-boot-a-quick-guide)
-- [Creating POST Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-post-endpoints-with-spring-boot-a-quick-guide)
-- [Creating GET Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-get-endpoints-with-spring-boot-a-quick-guide)
-- [Creating DELETE Endpoints with Spring Boot: A Quick Guide](https://nkamphoa.com/creating-delete-endpoints-with-spring-boot-a-quick-guide)
-- [5 Steps to Integrate Maven with SonarQube for Effective Quality Assurance](https://nkamphoa.com/5-steps-to-integrate-maven-with-sonarqube-for-effective-quality-assurance)
-- [5 Effective Methods in Java to Remove Array Duplicates while Preserving Original Order](https://nkamphoa.com/5-effective-methods-in-java-to-remove-array-duplicates-while-preserving-original-order)
-- [How I passed the AWS Certified Solutions Architect - Associate Exam](https://nkamphoa.com/how-i-passed-the-aws-certified-solutions-architect-associate-exam)
-- [Bug detection with SpotBugs in a Maven application](https://nkamphoa.com/bug-detection-with-spotbugs-in-a-maven-application)
-- [How to generate Code Coverage Report using Jacoco in a Java application](https://nkamphoa.com/how-to-generate-code-coverage-report-using-jacoco-in-a-java-application)
+- [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation)
+- [SpotBugs and Maven: Improve Bug Detection in Java Applications](https://nkamphoa.com/spotbugs-maven-enhance-bug-detection/?utm_source=rss&utm_medium=rss&utm_campaign=spotbugs-maven-enhance-bug-detection)
+- [Remove Array Duplicates: 5 Java Methods, Preserve Original Order](https://nkamphoa.com/remove-array-duplicates-preserving-original-ord/?utm_source=rss&utm_medium=rss&utm_campaign=remove-array-duplicates-preserving-original-ord)
+- [Maven and Sonar Integration: A 5-Step Guide for Effective QA](https://nkamphoa.com/maven-sonar-integration-5-step-guide-for-effective-quality-assurance/?utm_source=rss&utm_medium=rss&utm_campaign=maven-sonar-integration-5-step-guide-for-effective-quality-assurance)
+- [DRY Principle: The Dos and Don’ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-object-oriented/?utm_source=rss&utm_medium=rss&utm_campaign=dry-principle-object-oriented)
+- [Spring Boot RESTful PUT Endpoints: How To](https://nkamphoa.com/spring-boot-restful-put-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-put-endpoints-how-to)
+- [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-post-endpoints-how-to)
+- [Spring Boot RESTful GET Endpoints: How To](https://nkamphoa.com/creating-spring-boot-get-endpoints/?utm_source=rss&utm_medium=rss&utm_campaign=creating-spring-boot-get-endpoints)
+- [Spring Boot RESTful DELETE Endpoints: How To](https://nkamphoa.com/creating-spring-boot-delete-endpoints/?utm_source=rss&utm_medium=rss&utm_campaign=creating-spring-boot-delete-endpoints)
+- [Succeeding in AWS Solutions Architect – Associate: My Exam Tips](https://nkamphoa.com/how-i-passed-aws-certified-solutions-architect/?utm_source=rss&utm_medium=rss&utm_campaign=how-i-passed-aws-certified-solutions-architect)
 <!-- BLOG-POST-LIST:END -->
 
