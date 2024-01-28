@@ -23,6 +23,6 @@
 - [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-post-endpoints-how-to)
 - [Spring Boot RESTful GET Endpoints: How To](https://nkamphoa.com/creating-spring-boot-get-endpoints/?utm_source=rss&utm_medium=rss&utm_campaign=creating-spring-boot-get-endpoints)
 - [Spring Boot RESTful DELETE Endpoints: How To](https://nkamphoa.com/creating-spring-boot-delete-endpoints/?utm_source=rss&utm_medium=rss&utm_campaign=creating-spring-boot-delete-endpoints)
-- [Succeeding in AWS Solutions Architect – Associate: My Exam Tips](https://nkamphoa.com/how-i-passed-aws-certified-solutions-architect/?utm_source=rss&utm_medium=rss&utm_campaign=how-i-passed-aws-certified-solutions-architect)
+- [How I passed the AWS Certified Solutions Architect – Associate Exam](https://nkamphoa.com/how-i-passed-aws-certified-solutions-architect/?utm_source=rss&utm_medium=rss&utm_campaign=how-i-passed-aws-certified-solutions-architect)
 <!-- BLOG-POST-LIST:END -->
 
