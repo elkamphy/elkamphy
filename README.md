@@ -14,7 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation)
+- [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation-2/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation-2)
 - [SpotBugs and Maven: Improve Bug Detection in Java Applications](https://nkamphoa.com/spotbugs-maven-enhance-bug-detection/?utm_source=rss&utm_medium=rss&utm_campaign=spotbugs-maven-enhance-bug-detection)
 - [Remove Array Duplicates: 5 Java Methods, Preserve Original Order](https://nkamphoa.com/remove-array-duplicates-preserving-original-ord/?utm_source=rss&utm_medium=rss&utm_campaign=remove-array-duplicates-preserving-original-ord)
 - [Maven and Sonar Integration: A 5-Step Guide for Effective QA](https://nkamphoa.com/maven-sonar-integration-5-step-guide-for-effective-quality-assurance/?utm_source=rss&utm_medium=rss&utm_campaign=maven-sonar-integration-5-step-guide-for-effective-quality-assurance)
