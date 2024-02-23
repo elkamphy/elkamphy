@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java in 5 points&lpar;WIP&rpar;](https://nkamphoa.com/java-in-5-points/?utm_source=rss&utm_medium=rss&utm_campaign=java-in-5-points)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-2)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-1)
 - [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation)
@@ -23,6 +24,5 @@
 - [DRY Principle: The Dos and Don’ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-object-oriented/?utm_source=rss&utm_medium=rss&utm_campaign=dry-principle-object-oriented)
 - [Spring Boot RESTful PUT Endpoints: How To](https://nkamphoa.com/spring-boot-restful-put-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-put-endpoints-how-to)
 - [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-post-endpoints-how-to)
-- [Spring Boot RESTful GET Endpoints: How To](https://nkamphoa.com/creating-spring-boot-get-endpoints/?utm_source=rss&utm_medium=rss&utm_campaign=creating-spring-boot-get-endpoints)
 <!-- BLOG-POST-LIST:END -->
 
