@@ -14,7 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Java in 5 points&lpar;WIP&rpar;](https://nkamphoa.com/java-in-5-points/?utm_source=rss&utm_medium=rss&utm_campaign=java-in-5-points)
+- [Java Essentials: A Beginner’s Guide in 7 Key Points](https://nkamphoa.com/java-essentials-a-beginners-guide-in-7-key-points/?utm_source=rss&utm_medium=rss&utm_campaign=java-essentials-a-beginners-guide-in-7-key-points)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-2)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-1)
 - [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation)
