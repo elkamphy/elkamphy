@@ -14,15 +14,15 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Java Essentials: A Beginner’s Guide in 7 Key Points](https://nkamphoa.com/java-essentials-a-beginners-guide-in-7-key-points/?utm_source=rss&utm_medium=rss&utm_campaign=java-essentials-a-beginners-guide-in-7-key-points)
-- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-2)
-- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/?utm_source=rss&utm_medium=rss&utm_campaign=java-string-manipulation-5-key-recipes-for-technical-interviews-part-1)
-- [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/?utm_source=rss&utm_medium=rss&utm_campaign=jacoco-maven-code-coverage-generation)
-- [SpotBugs and Maven: Improve Bug Detection in Java Applications](https://nkamphoa.com/spotbugs-maven-enhance-bug-detection/?utm_source=rss&utm_medium=rss&utm_campaign=spotbugs-maven-enhance-bug-detection)
-- [Remove Array Duplicates: 5 Java Methods, Preserve Original Order](https://nkamphoa.com/remove-array-duplicates-preserving-original-ord/?utm_source=rss&utm_medium=rss&utm_campaign=remove-array-duplicates-preserving-original-ord)
-- [Maven and Sonar Integration: A 5-Step Guide for Effective QA](https://nkamphoa.com/maven-sonar-integration-5-step-guide-for-effective-quality-assurance/?utm_source=rss&utm_medium=rss&utm_campaign=maven-sonar-integration-5-step-guide-for-effective-quality-assurance)
-- [DRY Principle: The Dos and Don’ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-object-oriented/?utm_source=rss&utm_medium=rss&utm_campaign=dry-principle-object-oriented)
-- [Spring Boot RESTful PUT Endpoints: How To](https://nkamphoa.com/spring-boot-restful-put-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-put-endpoints-how-to)
-- [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=spring-boot-restful-post-endpoints-how-to)
+- [Java Essentials: A Beginner’s Guide in 7 Key Points](https://nkamphoa.com/java-essentials-a-beginners-guide-in-7-key-points/)
+- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/)
+- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/)
+- [JaCoCo and Maven: Generate Code Coverage Report in your Java Application](https://nkamphoa.com/jacoco-maven-code-coverage-generation/)
+- [SpotBugs and Maven: Improve Bug Detection in Java Applications](https://nkamphoa.com/spotbugs-maven-enhance-bug-detection/)
+- [Remove Array Duplicates: 5 Java Methods, Preserve Original Order](https://nkamphoa.com/remove-array-duplicates-preserving-original-ord/)
+- [Maven and Sonar Integration: A 5-Step Guide for Effective QA](https://nkamphoa.com/maven-sonar-integration-5-step-guide-for-effective-quality-assurance/)
+- [DRY Principle: The Dos and Don’ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-object-oriented/)
+- [Spring Boot RESTful PUT Endpoints: How To](https://nkamphoa.com/spring-boot-restful-put-endpoints-how-to/)
+- [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/)
 <!-- BLOG-POST-LIST:END -->
 
