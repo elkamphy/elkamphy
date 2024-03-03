@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java at a Glance: Key Differences Between JRE, JDK, and JVM](https://nkamphoa.com/java-at-a-glance-key-differences-between-jre-jdk-and-jvm/)
 - [Java Essentials: A Beginner’s Guide in 7 Key Points](https://nkamphoa.com/java-essentials-a-beginners-guide-in-7-key-points/)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/)
 - [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/)
@@ -23,6 +24,5 @@
 - [Maven and Sonar Integration: A 5-Step Guide for Effective QA](https://nkamphoa.com/maven-sonar-integration-5-step-guide-for-effective-quality-assurance/)
 - [DRY Principle: The Dos and Don’ts of Object-Oriented Design](https://nkamphoa.com/dry-principle-object-oriented/)
 - [Spring Boot RESTful PUT Endpoints: How To](https://nkamphoa.com/spring-boot-restful-put-endpoints-how-to/)
-- [Spring Boot RESTful POST Endpoints: How To](https://nkamphoa.com/spring-boot-restful-post-endpoints-how-to/)
 <!-- BLOG-POST-LIST:END -->
 
