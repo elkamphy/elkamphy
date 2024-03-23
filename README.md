@@ -14,15 +14,15 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Primitive Data Types in Java: Understanding the Core Essentials](https://nkamphoa.com/primitive-data-types-in-java-understanding-the-core-essentials/)
+- [Java Operators Decoded: Essential Tools for Crafting Robust Code](https://nkamphoa.com/java-operators-decoded-essential-tools-for-crafting-robust-code/)
+- [Bit Operators In Java](https://nkamphoa.com/bit-operators-in-java/)
+- [Arithmetic Operators In Java](https://nkamphoa.com/arithmetic-operators-in-java/)
+- [Boolean Operators In Java](https://nkamphoa.com/boolean-operators-in-java/)
 - [Debugging Java Applications: A Guide with IntelliJ IDEA](https://nkamphoa.com/debugging-java-applications-a-guide-with-intellij-idea/)
 - [Create, Compile, and Run Your Hello World Java Application using a Terminal](https://nkamphoa.com/create-compile-and-run-your-hello-world-java-application-using-a-terminal/)
 - [Inheritance in Java: Building on Basics for Powerful Programming](https://nkamphoa.com/inheritance-in-java-building-on-basics-for-powerful-programming/)
 - [Object-Oriented Programming in Java: Building Robust Applications](https://nkamphoa.com/object-oriented-in-java-building-robust-applications/)
 - [Understand Access Modifiers in Java](https://nkamphoa.com/understand-access-modifiers-in-java/)
-- [Install and Configure the Java Development Kit &lpar;JDK&rpar; on macOS, Linux, and Windows](https://nkamphoa.com/install-and-configure-the-java-development-kit-jdk-on-macos-linux-and-windows/)
-- [Java at a Glance: Key Differences Between JRE, JDK, and JVM](https://nkamphoa.com/java-at-a-glance-key-differences-between-jre-jdk-and-jvm/)
-- [Java Essentials: A Beginner’s Guide in 7 Key Points](https://nkamphoa.com/java-essentials-a-beginners-guide-in-7-key-points/)
-- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 2&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-2/)
-- [Java String Manipulation: 5 Key Recipes for Technical Interviews &lpar;Part 1&rpar;](https://nkamphoa.com/java-string-manipulation-5-key-recipes-for-technical-interviews-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
