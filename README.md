@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
+- [Flow Control Statements In Java](https://nkamphoa.com/flow-control-statements-in-java/)
+- [Switch Statements And Switch Expressions In Java](https://nkamphoa.com/switch-statements-and-switch-expressions-in-java/)
 - [Primitive Data Types in Java: Understanding the Core Essentials](https://nkamphoa.com/primitive-data-types-in-java-understanding-the-core-essentials/)
 - [Java Operators Decoded: Essential Tools for Crafting Robust Code](https://nkamphoa.com/java-operators-decoded-essential-tools-for-crafting-robust-code/)
 - [Bit Operators In Java](https://nkamphoa.com/bit-operators-in-java/)
@@ -21,8 +24,5 @@
 - [Boolean Operators In Java](https://nkamphoa.com/boolean-operators-in-java/)
 - [Debugging Java Applications: A Guide with IntelliJ IDEA](https://nkamphoa.com/debugging-java-applications-a-guide-with-intellij-idea/)
 - [Create, Compile, and Run Your Hello World Java Application using a Terminal](https://nkamphoa.com/create-compile-and-run-your-hello-world-java-application-using-a-terminal/)
-- [Inheritance in Java: Building on Basics for Powerful Programming](https://nkamphoa.com/inheritance-in-java-building-on-basics-for-powerful-programming/)
-- [Object-Oriented Programming in Java: Building Robust Applications](https://nkamphoa.com/object-oriented-in-java-building-robust-applications/)
-- [Understand Access Modifiers in Java](https://nkamphoa.com/understand-access-modifiers-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
