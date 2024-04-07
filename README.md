@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Mock File System With Mockito](https://nkamphoa.com/how-to-mock-file-system-with-mockito/)
+- [How to Mock Static Methods With Mockito](https://nkamphoa.com/how-to-mock-static-methods-with-mockito/)
 - [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
 - [Flow Control Statements In Java](https://nkamphoa.com/flow-control-statements-in-java/)
 - [Switch Statements And Switch Expressions In Java](https://nkamphoa.com/switch-statements-and-switch-expressions-in-java/)
@@ -22,7 +24,5 @@
 - [Bit Operators In Java](https://nkamphoa.com/bit-operators-in-java/)
 - [Arithmetic Operators In Java](https://nkamphoa.com/arithmetic-operators-in-java/)
 - [Boolean Operators In Java](https://nkamphoa.com/boolean-operators-in-java/)
-- [Debugging Java Applications: A Guide with IntelliJ IDEA](https://nkamphoa.com/debugging-java-applications-a-guide-with-intellij-idea/)
-- [Create, Compile, and Run Your Hello World Java Application using a Terminal](https://nkamphoa.com/create-compile-and-run-your-hello-world-java-application-using-a-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
