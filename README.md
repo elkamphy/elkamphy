@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Block in Java: Learn to Handle Multiline Text With Ease](https://nkamphoa.com/text-block-in-java/)
+- [String Class In Java: Essential Techniques for Text Manipulation](https://nkamphoa.com/string-class-in-java/)
 - [How to Mock File System With Mockito](https://nkamphoa.com/how-to-mock-file-system-with-mockito/)
 - [How to Mock Static Methods With Mockito](https://nkamphoa.com/how-to-mock-static-methods-with-mockito/)
 - [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
@@ -22,7 +24,5 @@
 - [Primitive Data Types in Java: Understanding the Core Essentials](https://nkamphoa.com/primitive-data-types-in-java-understanding-the-core-essentials/)
 - [Java Operators Decoded: Essential Tools for Crafting Robust Code](https://nkamphoa.com/java-operators-decoded-essential-tools-for-crafting-robust-code/)
 - [Bit Operators In Java](https://nkamphoa.com/bit-operators-in-java/)
-- [Arithmetic Operators In Java](https://nkamphoa.com/arithmetic-operators-in-java/)
-- [Boolean Operators In Java](https://nkamphoa.com/boolean-operators-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
