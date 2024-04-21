@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix IndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-indexoutofboundsexception-in-java/)
+- [How to Fix ArrayIndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-arrayindexoutofboundsexception-in-java/)
+- [How to Fix NullPointerException In Java](https://nkamphoa.com/how-to-fix-nullpointerexception-in-java/)
 - [Text Block in Java: Learn to Handle Multiline Text With Ease](https://nkamphoa.com/text-block-in-java/)
 - [String Class In Java: Essential Techniques for Text Manipulation](https://nkamphoa.com/string-class-in-java/)
 - [How to Mock File System With Mockito](https://nkamphoa.com/how-to-mock-file-system-with-mockito/)
@@ -21,8 +24,5 @@
 - [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
 - [Flow Control Statements In Java](https://nkamphoa.com/flow-control-statements-in-java/)
 - [Switch Statements And Switch Expressions In Java](https://nkamphoa.com/switch-statements-and-switch-expressions-in-java/)
-- [Primitive Data Types in Java: Understanding the Core Essentials](https://nkamphoa.com/primitive-data-types-in-java-understanding-the-core-essentials/)
-- [Java Operators Decoded: Essential Tools for Crafting Robust Code](https://nkamphoa.com/java-operators-decoded-essential-tools-for-crafting-robust-code/)
-- [Bit Operators In Java](https://nkamphoa.com/bit-operators-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
