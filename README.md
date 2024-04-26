@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix StringIndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-stringindexoutofboundsexception-in-java/)
+- [How to Fix UnsupportedOperationException In Java](https://nkamphoa.com/how-to-fix-unsupportedoperationexception-in-java/)
 - [How to Fix IndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-indexoutofboundsexception-in-java/)
 - [How to Fix ArrayIndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-arrayindexoutofboundsexception-in-java/)
 - [How to Fix NullPointerException In Java](https://nkamphoa.com/how-to-fix-nullpointerexception-in-java/)
@@ -22,7 +24,5 @@
 - [How to Mock File System With Mockito](https://nkamphoa.com/how-to-mock-file-system-with-mockito/)
 - [How to Mock Static Methods With Mockito](https://nkamphoa.com/how-to-mock-static-methods-with-mockito/)
 - [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
-- [Flow Control Statements In Java](https://nkamphoa.com/flow-control-statements-in-java/)
-- [Switch Statements And Switch Expressions In Java](https://nkamphoa.com/switch-statements-and-switch-expressions-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
