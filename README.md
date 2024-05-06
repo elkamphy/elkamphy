@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LocalDateTime Class in Java](https://nkamphoa.com/localdatetime-class-in-java/)
+- [LocalTime Class in Java](https://nkamphoa.com/localtime-class-in-java/)
+- [LocalDate Class in Java](https://nkamphoa.com/localdate-class-in-java/)
 - [How to Fix StringIndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-stringindexoutofboundsexception-in-java/)
 - [How to Fix UnsupportedOperationException In Java](https://nkamphoa.com/how-to-fix-unsupportedoperationexception-in-java/)
 - [How to Fix IndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-indexoutofboundsexception-in-java/)
@@ -21,8 +24,5 @@
 - [How to Fix NullPointerException In Java](https://nkamphoa.com/how-to-fix-nullpointerexception-in-java/)
 - [Text Block in Java: Learn to Handle Multiline Text With Ease](https://nkamphoa.com/text-block-in-java/)
 - [String Class In Java: Essential Techniques for Text Manipulation](https://nkamphoa.com/string-class-in-java/)
-- [How to Mock File System With Mockito](https://nkamphoa.com/how-to-mock-file-system-with-mockito/)
-- [How to Mock Static Methods With Mockito](https://nkamphoa.com/how-to-mock-static-methods-with-mockito/)
-- [Expressions, Statements, and Blocks in Java](https://nkamphoa.com/expressions-statements-and-blocks-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
