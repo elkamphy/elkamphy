@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix DateTimeException In Java](https://nkamphoa.com/how-to-fix-datetimeexception-in-java/)
+- [How to Fix DateTimeParseException In Java](https://nkamphoa.com/how-to-fix-datetimeparseexception-in-java/)
 - [OffsetDateTime Class in Java](https://nkamphoa.com/offsetdatetime-class-in-java/)
 - [Period Class in Java](https://nkamphoa.com/period-class-in-java/)
 - [Duration Class in Java](https://nkamphoa.com/duration-class-in-java/)
@@ -22,7 +24,5 @@
 - [LocalDateTime Class in Java](https://nkamphoa.com/localdatetime-class-in-java/)
 - [LocalTime Class in Java](https://nkamphoa.com/localtime-class-in-java/)
 - [LocalDate Class in Java](https://nkamphoa.com/localdate-class-in-java/)
-- [How to Fix StringIndexOutOfBoundsException In Java](https://nkamphoa.com/how-to-fix-stringindexoutofboundsexception-in-java/)
-- [How to Fix UnsupportedOperationException In Java](https://nkamphoa.com/how-to-fix-unsupportedoperationexception-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
