@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Fix NumberFormatException In Java](https://nkamphoa.com/how-to-fix-numberformatexception-in-java/)
 - [How To Fix ConcurrentModificationException In Java](https://nkamphoa.com/how-to-fix-concurrentmodificationexception-in-java/)
 - [How to Fix DateTimeException In Java](https://nkamphoa.com/how-to-fix-datetimeexception-in-java/)
 - [How to Fix DateTimeParseException In Java](https://nkamphoa.com/how-to-fix-datetimeparseexception-in-java/)
@@ -23,6 +24,5 @@
 - [Instant Class in Java](https://nkamphoa.com/instant-class-in-java/)
 - [ZonedDateTime Class in Java](https://nkamphoa.com/zoneddatetime-class-in-java/)
 - [LocalDateTime Class in Java](https://nkamphoa.com/localdatetime-class-in-java/)
-- [LocalTime Class in Java](https://nkamphoa.com/localtime-class-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
