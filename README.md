@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Fix ClassCastException In Java](https://nkamphoa.com/how-to-fix-classcastexception-in-java/)
 - [BigDecimal Class In Java](https://nkamphoa.com/bigdecimal-class-in-java/)
 - [How To Fix NumberFormatException In Java](https://nkamphoa.com/how-to-fix-numberformatexception-in-java/)
 - [How To Fix ConcurrentModificationException In Java](https://nkamphoa.com/how-to-fix-concurrentmodificationexception-in-java/)
@@ -23,6 +24,5 @@
 - [Period Class in Java](https://nkamphoa.com/period-class-in-java/)
 - [Duration Class in Java](https://nkamphoa.com/duration-class-in-java/)
 - [Instant Class in Java](https://nkamphoa.com/instant-class-in-java/)
-- [ZonedDateTime Class in Java](https://nkamphoa.com/zoneddatetime-class-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
