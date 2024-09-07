@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install Metricbeat Using Docker](https://nkamphoa.com/how-to-install-metricbeat-using-docker/)
+- [How to Install Filebeat Using Docker](https://nkamphoa.com/how-to-install-filebeat-using-docker/)
 - [ELK Stack Installation and Configuration With Docker Compose](https://nkamphoa.com/elk-stack-install-docker-compose/)
 - [Configure Kibana: Create Data Views and Master KQL](https://nkamphoa.com/getting-started-with-kibana/)
 - [How to Install Kibana Using Docker](https://nkamphoa.com/install-kibana-with-docker/)
@@ -22,7 +24,5 @@
 - [How To Fix ClassCastException In Java](https://nkamphoa.com/how-to-fix-classcastexception-in-java/)
 - [BigDecimal Class In Java](https://nkamphoa.com/bigdecimal-class-in-java/)
 - [How To Fix NumberFormatException In Java](https://nkamphoa.com/how-to-fix-numberformatexception-in-java/)
-- [How To Fix ConcurrentModificationException In Java](https://nkamphoa.com/how-to-fix-concurrentmodificationexception-in-java/)
-- [How to Fix DateTimeException In Java](https://nkamphoa.com/how-to-fix-datetimeexception-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
