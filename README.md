@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Install OpenTelemetry Collector Using Docker](https://nkamphoa.com/how-to-install-opentelemetry-collector-using-docker/)
 - [How to Install Metricbeat Using Docker](https://nkamphoa.com/how-to-install-metricbeat-using-docker/)
 - [How to Install Filebeat Using Docker](https://nkamphoa.com/how-to-install-filebeat-using-docker/)
 - [ELK Stack Installation and Configuration With Docker Compose](https://nkamphoa.com/elk-stack-install-docker-compose/)
@@ -23,6 +24,5 @@
 - [How to Install Elasticsearch Using Docker](https://nkamphoa.com/install-elasticsearch-with-docker/)
 - [How To Fix ClassCastException In Java](https://nkamphoa.com/how-to-fix-classcastexception-in-java/)
 - [BigDecimal Class In Java](https://nkamphoa.com/bigdecimal-class-in-java/)
-- [How To Fix NumberFormatException In Java](https://nkamphoa.com/how-to-fix-numberformatexception-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
