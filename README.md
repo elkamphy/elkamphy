@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Disable Wildcard Import in IntelliJ IDE](https://nkamphoa.com/disable-wildcard-import-in-intellij-ide/)
+- [Sealed Classes and Interfaces In Java](https://nkamphoa.com/sealed-classes-and-interfaces-in-java/)
 - [Records In Java](https://nkamphoa.com/records-in-java/)
 - [How to Install OpenTelemetry Collector Using Docker](https://nkamphoa.com/how-to-install-opentelemetry-collector-using-docker/)
 - [How to Install Metricbeat Using Docker](https://nkamphoa.com/how-to-install-metricbeat-using-docker/)
@@ -22,7 +24,5 @@
 - [Configure Kibana: Create Data Views and Master KQL](https://nkamphoa.com/getting-started-with-kibana/)
 - [How to Install Kibana Using Docker](https://nkamphoa.com/install-kibana-with-docker/)
 - [How to Install Logstash Using Docker](https://nkamphoa.com/install-logstash-with-docker/)
-- [How to Install Elasticsearch Using Docker](https://nkamphoa.com/install-elasticsearch-with-docker/)
-- [How To Fix ClassCastException In Java](https://nkamphoa.com/how-to-fix-classcastexception-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
