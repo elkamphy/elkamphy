@@ -14,7 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix UnfinishedStubbingException](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
+- [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
 - [How to Fix InvalidUseOfMatchersException In Java](https://nkamphoa.com/how-to-fix-invaliduseofmatchersexception-in-java/)
 - [Disable Wildcard Import in IntelliJ IDE](https://nkamphoa.com/disable-wildcard-import-in-intellij-ide/)
 - [Sealed Classes and Interfaces In Java](https://nkamphoa.com/sealed-classes-and-interfaces-in-java/)
