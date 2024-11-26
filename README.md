@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 21 New Features](https://nkamphoa.com/java-21-new-features/)
 - [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
 - [How to Fix InvalidUseOfMatchersException In Java](https://nkamphoa.com/how-to-fix-invaliduseofmatchersexception-in-java/)
 - [Disable Wildcard Import in IntelliJ IDE](https://nkamphoa.com/disable-wildcard-import-in-intellij-ide/)
@@ -23,6 +24,5 @@
 - [How to Install Metricbeat Using Docker](https://nkamphoa.com/how-to-install-metricbeat-using-docker/)
 - [How to Install Filebeat Using Docker](https://nkamphoa.com/how-to-install-filebeat-using-docker/)
 - [ELK Stack Installation and Configuration With Docker Compose](https://nkamphoa.com/elk-stack-install-docker-compose/)
-- [Configure Kibana: Create Data Views and Master KQL](https://nkamphoa.com/getting-started-with-kibana/)
 <!-- BLOG-POST-LIST:END -->
 
