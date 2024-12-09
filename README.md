@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Arrays Class In Java](https://nkamphoa.com/the-arrays-class/)
+- [Arrays and Loops in Java](https://nkamphoa.com/arrays-and-loops/)
 - [Java 21 New Features](https://nkamphoa.com/java-21-new-features/)
 - [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
 - [How to Fix InvalidUseOfMatchersException In Java](https://nkamphoa.com/how-to-fix-invaliduseofmatchersexception-in-java/)
@@ -22,7 +24,5 @@
 - [Records In Java](https://nkamphoa.com/records-in-java/)
 - [How to Install OpenTelemetry Collector Using Docker](https://nkamphoa.com/how-to-install-opentelemetry-collector-using-docker/)
 - [How to Install Metricbeat Using Docker](https://nkamphoa.com/how-to-install-metricbeat-using-docker/)
-- [How to Install Filebeat Using Docker](https://nkamphoa.com/how-to-install-filebeat-using-docker/)
-- [ELK Stack Installation and Configuration With Docker Compose](https://nkamphoa.com/elk-stack-install-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
 
