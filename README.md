@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrapper Classes In Java](https://nkamphoa.com/wrapper-classes-in-java/)
 - [Multidimensional Arrays In Java](https://nkamphoa.com/multidimensional-arrays-in-java/)
 - [Creating Your First Java Application With IntelliJ IDEA](https://nkamphoa.com/first-java-application-with-intellij/)
 - [Introduction to JShell in Java](https://nkamphoa.com/introduction-to-jshell-in-java/)
@@ -23,6 +24,5 @@
 - [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
 - [How to Fix InvalidUseOfMatchersException In Java](https://nkamphoa.com/how-to-fix-invaliduseofmatchersexception-in-java/)
 - [Disable Wildcard Import in IntelliJ IDE](https://nkamphoa.com/disable-wildcard-import-in-intellij-ide/)
-- [Sealed Classes and Interfaces In Java](https://nkamphoa.com/sealed-classes-and-interfaces-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
