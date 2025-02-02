@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AtomicInteger Class In Java](https://nkamphoa.com/atomicinteger-class-in-java/)
+- [BigInteger Class In Java](https://nkamphoa.com/biginteger-class-in-java/)
 - [Wrapper Classes In Java](https://nkamphoa.com/wrapper-classes-in-java/)
 - [Multidimensional Arrays In Java](https://nkamphoa.com/multidimensional-arrays-in-java/)
 - [Creating Your First Java Application With IntelliJ IDEA](https://nkamphoa.com/first-java-application-with-intellij/)
@@ -22,7 +24,5 @@
 - [Arrays and Loops in Java](https://nkamphoa.com/arrays-and-loops/)
 - [Java 21 New Features](https://nkamphoa.com/java-21-new-features/)
 - [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
-- [How to Fix InvalidUseOfMatchersException In Java](https://nkamphoa.com/how-to-fix-invaliduseofmatchersexception-in-java/)
-- [Disable Wildcard Import in IntelliJ IDE](https://nkamphoa.com/disable-wildcard-import-in-intellij-ide/)
 <!-- BLOG-POST-LIST:END -->
 
