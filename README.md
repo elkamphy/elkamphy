@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Locale Class In Java](https://nkamphoa.com/locale-class-in-java/)
+- [ResourceBundle Class In Java](https://nkamphoa.com/resourcebundle-class-in-java/)
 - [AtomicInteger Class In Java](https://nkamphoa.com/atomicinteger-class-in-java/)
 - [BigInteger Class In Java](https://nkamphoa.com/biginteger-class-in-java/)
 - [Wrapper Classes In Java](https://nkamphoa.com/wrapper-classes-in-java/)
@@ -22,7 +24,5 @@
 - [Introduction to JShell in Java](https://nkamphoa.com/introduction-to-jshell-in-java/)
 - [The Arrays Class In Java](https://nkamphoa.com/the-arrays-class/)
 - [Arrays and Loops in Java](https://nkamphoa.com/arrays-and-loops/)
-- [Java 21 New Features](https://nkamphoa.com/java-21-new-features/)
-- [How to Fix UnfinishedStubbingException  In Java](https://nkamphoa.com/how-to-fix-unfinishedstubbingexception-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
