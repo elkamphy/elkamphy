@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatting Numbers In Java](https://nkamphoa.com/format-numbers-in-java/)
 - [Locale Class In Java](https://nkamphoa.com/locale-class-in-java/)
 - [ResourceBundle Class In Java](https://nkamphoa.com/resourcebundle-class-in-java/)
 - [AtomicInteger Class In Java](https://nkamphoa.com/atomicinteger-class-in-java/)
@@ -23,6 +24,5 @@
 - [Creating Your First Java Application With IntelliJ IDEA](https://nkamphoa.com/first-java-application-with-intellij/)
 - [Introduction to JShell in Java](https://nkamphoa.com/introduction-to-jshell-in-java/)
 - [The Arrays Class In Java](https://nkamphoa.com/the-arrays-class/)
-- [Arrays and Loops in Java](https://nkamphoa.com/arrays-and-loops/)
 <!-- BLOG-POST-LIST:END -->
 
