@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enum Type In Java](https://nkamphoa.com/enum-type-in-java/)
 - [Class and Object In Java](https://nkamphoa.com/class-and-object-in-java/)
 - [Formatting Messages In Java](https://nkamphoa.com/format-messages-in-java/)
 - [Formatting Numbers In Java](https://nkamphoa.com/format-numbers-in-java/)
@@ -23,6 +24,5 @@
 - [BigInteger Class In Java](https://nkamphoa.com/biginteger-class-in-java/)
 - [Wrapper Classes In Java](https://nkamphoa.com/wrapper-classes-in-java/)
 - [Multidimensional Arrays In Java](https://nkamphoa.com/multidimensional-arrays-in-java/)
-- [Creating Your First Java Application With IntelliJ IDEA](https://nkamphoa.com/first-java-application-with-intellij/)
 <!-- BLOG-POST-LIST:END -->
 
