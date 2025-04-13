@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Local Variable Type Inference in Java](https://nkamphoa.com/local-variable-type-inference-in-java/)
 - [Enum Type In Java](https://nkamphoa.com/enum-type-in-java/)
 - [Class and Object In Java](https://nkamphoa.com/class-and-object-in-java/)
 - [Formatting Messages In Java](https://nkamphoa.com/format-messages-in-java/)
@@ -23,6 +24,5 @@
 - [AtomicInteger Class In Java](https://nkamphoa.com/atomicinteger-class-in-java/)
 - [BigInteger Class In Java](https://nkamphoa.com/biginteger-class-in-java/)
 - [Wrapper Classes In Java](https://nkamphoa.com/wrapper-classes-in-java/)
-- [Multidimensional Arrays In Java](https://nkamphoa.com/multidimensional-arrays-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
