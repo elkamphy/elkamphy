@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 8 New Features](https://nkamphoa.com/java-8-new-features/)
+- [Java 11 New Features](https://nkamphoa.com/java-11-new-features/)
 - [Java 17 New Features](https://nkamphoa.com/java-17-new-features/)
 - [How To Enable Preview Features in Java](https://nkamphoa.com/how-to-enable-preview-features/)
 - [Local Variable Type Inference in Java](https://nkamphoa.com/local-variable-type-inference-in-java/)
@@ -22,7 +24,5 @@
 - [Formatting Messages In Java](https://nkamphoa.com/format-messages-in-java/)
 - [Formatting Numbers In Java](https://nkamphoa.com/format-numbers-in-java/)
 - [Locale Class In Java](https://nkamphoa.com/locale-class-in-java/)
-- [ResourceBundle Class In Java](https://nkamphoa.com/resourcebundle-class-in-java/)
-- [AtomicInteger Class In Java](https://nkamphoa.com/atomicinteger-class-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
