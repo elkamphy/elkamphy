@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Avoid == with Strings in Java](https://nkamphoa.com/string-comparison-in-java/)
 - [Java 8 New Features](https://nkamphoa.com/java-8-new-features/)
 - [Java 11 New Features](https://nkamphoa.com/java-11-new-features/)
 - [Java 17 New Features](https://nkamphoa.com/java-17-new-features/)
@@ -23,6 +24,5 @@
 - [Class and Object In Java](https://nkamphoa.com/class-and-object-in-java/)
 - [Formatting Messages In Java](https://nkamphoa.com/format-messages-in-java/)
 - [Formatting Numbers In Java](https://nkamphoa.com/format-numbers-in-java/)
-- [Locale Class In Java](https://nkamphoa.com/locale-class-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
