@@ -14,15 +14,15 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Single Responsibility Principle in Java](https://nkamphoa.com/single-responsibility-principle-in-java/)
+- [Open Closed Principle In Java](https://nkamphoa.com/open-closed-principle-in-java/)
+- [Liskov Substitution Principle In Java](https://nkamphoa.com/liskov-substitution-principle-in-java/)
+- [Interface Segregation Principle In Java](https://nkamphoa.com/interface-segregation-principle-in-java/)
+- [Dependency Inversion Principle In Java](https://nkamphoa.com/dependency-inversion-principle-in-java/)
+- [SOLID Principles in Java: Quick Guide](https://nkamphoa.com/solid-principles-in-java/)
 - [Why You Should Avoid == with Strings in Java](https://nkamphoa.com/string-comparison-in-java/)
 - [Java 8 New Features](https://nkamphoa.com/java-8-new-features/)
 - [Java 11 New Features](https://nkamphoa.com/java-11-new-features/)
 - [Java 17 New Features](https://nkamphoa.com/java-17-new-features/)
-- [How To Enable Preview Features in Java](https://nkamphoa.com/how-to-enable-preview-features/)
-- [Local Variable Type Inference in Java](https://nkamphoa.com/local-variable-type-inference-in-java/)
-- [Enum Type In Java](https://nkamphoa.com/enum-type-in-java/)
-- [Class and Object In Java](https://nkamphoa.com/class-and-object-in-java/)
-- [Formatting Messages In Java](https://nkamphoa.com/format-messages-in-java/)
-- [Formatting Numbers In Java](https://nkamphoa.com/format-numbers-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
