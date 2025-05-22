@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Abstract Classes and Interfaces in Java](https://nkamphoa.com/abstract-classes-and-interfaces-in-java/)
+- [Abstract Classes in Java](https://nkamphoa.com/abstract-classes-in-java/)
+- [Interfaces in Java](https://nkamphoa.com/interfaces-in-java/)
 - [Single Responsibility Principle in Java](https://nkamphoa.com/single-responsibility-principle-in-java/)
 - [Open Closed Principle In Java](https://nkamphoa.com/open-closed-principle-in-java/)
 - [Liskov Substitution Principle In Java](https://nkamphoa.com/liskov-substitution-principle-in-java/)
@@ -21,8 +24,5 @@
 - [Dependency Inversion Principle In Java](https://nkamphoa.com/dependency-inversion-principle-in-java/)
 - [SOLID Principles in Java: Quick Guide](https://nkamphoa.com/solid-principles-in-java/)
 - [Why You Should Avoid == with Strings in Java](https://nkamphoa.com/string-comparison-in-java/)
-- [Java 8 New Features](https://nkamphoa.com/java-8-new-features/)
-- [Java 11 New Features](https://nkamphoa.com/java-11-new-features/)
-- [Java 17 New Features](https://nkamphoa.com/java-17-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
