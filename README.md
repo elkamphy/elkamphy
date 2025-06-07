@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generics: Basics and Use Cases in Java](https://nkamphoa.com/generics-basics-and-use-cases-in-java/)
 - [Abstract Classes and Interfaces in Java](https://nkamphoa.com/abstract-classes-and-interfaces-in-java/)
 - [Abstract Classes in Java](https://nkamphoa.com/abstract-classes-in-java/)
 - [Interfaces in Java](https://nkamphoa.com/interfaces-in-java/)
@@ -23,6 +24,5 @@
 - [Interface Segregation Principle In Java](https://nkamphoa.com/interface-segregation-principle-in-java/)
 - [Dependency Inversion Principle In Java](https://nkamphoa.com/dependency-inversion-principle-in-java/)
 - [SOLID Principles in Java: Quick Guide](https://nkamphoa.com/solid-principles-in-java/)
-- [Why You Should Avoid == with Strings in Java](https://nkamphoa.com/string-comparison-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
