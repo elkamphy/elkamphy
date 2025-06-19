@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Override Methods and Use Polymorphism in Java](https://nkamphoa.com/polymorphism-example-in-java/)
 - [Verify Object Type Before Casting](https://nkamphoa.com/verify-object-type-before-casting/)
 - [Generics: Basics and Use Cases in Java](https://nkamphoa.com/generics-basics-and-use-cases-in-java/)
 - [Abstract Classes and Interfaces in Java](https://nkamphoa.com/abstract-classes-and-interfaces-in-java/)
@@ -23,6 +24,5 @@
 - [Open Closed Principle In Java](https://nkamphoa.com/open-closed-principle-in-java/)
 - [Liskov Substitution Principle In Java](https://nkamphoa.com/liskov-substitution-principle-in-java/)
 - [Interface Segregation Principle In Java](https://nkamphoa.com/interface-segregation-principle-in-java/)
-- [Dependency Inversion Principle In Java](https://nkamphoa.com/dependency-inversion-principle-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
