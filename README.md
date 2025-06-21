@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Collections Framework in Java: What You Need to Know](https://nkamphoa.com/collections-framework-in-java/)
 - [Understand the Factory Method Pattern in Java](https://nkamphoa.com/factory-method-pattern-in-java/)
 - [Override Methods and Use Polymorphism in Java](https://nkamphoa.com/polymorphism-example-in-java/)
 - [Verify Object Type Before Casting](https://nkamphoa.com/verify-object-type-before-casting/)
@@ -23,6 +24,5 @@
 - [Interfaces in Java](https://nkamphoa.com/interfaces-in-java/)
 - [Single Responsibility Principle in Java](https://nkamphoa.com/single-responsibility-principle-in-java/)
 - [Open Closed Principle In Java](https://nkamphoa.com/open-closed-principle-in-java/)
-- [Liskov Substitution Principle In Java](https://nkamphoa.com/liskov-substitution-principle-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
