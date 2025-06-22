@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CopyOnWriteArrayList in Java: Performance, and Use Cases](https://nkamphoa.com/copyonwritearraylist-in-java/)
+- [LinkedList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/linkedlist-in-java/)
+- [ArrayList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraylist-in-java/)
 - [Collections Framework in Java: What You Need to Know](https://nkamphoa.com/collections-framework-in-java/)
 - [Understand the Factory Method Pattern in Java](https://nkamphoa.com/factory-method-pattern-in-java/)
 - [Override Methods and Use Polymorphism in Java](https://nkamphoa.com/polymorphism-example-in-java/)
@@ -21,8 +24,5 @@
 - [Generics: Basics and Use Cases in Java](https://nkamphoa.com/generics-basics-and-use-cases-in-java/)
 - [Abstract Classes and Interfaces in Java](https://nkamphoa.com/abstract-classes-and-interfaces-in-java/)
 - [Abstract Classes in Java](https://nkamphoa.com/abstract-classes-in-java/)
-- [Interfaces in Java](https://nkamphoa.com/interfaces-in-java/)
-- [Single Responsibility Principle in Java](https://nkamphoa.com/single-responsibility-principle-in-java/)
-- [Open Closed Principle In Java](https://nkamphoa.com/open-closed-principle-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
