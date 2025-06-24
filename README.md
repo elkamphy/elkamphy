@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HashMap in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashmap-in-java/)
+- [Map Implementations in Java: A Comparative Guide](https://nkamphoa.com/map-implementations-in-java/)
 - [CopyOnWriteArrayList in Java: Performance, and Use Cases](https://nkamphoa.com/copyonwritearraylist-in-java/)
 - [LinkedList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/linkedlist-in-java/)
 - [ArrayList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraylist-in-java/)
@@ -22,7 +24,5 @@
 - [Override Methods and Use Polymorphism in Java](https://nkamphoa.com/polymorphism-example-in-java/)
 - [Verify Object Type Before Casting](https://nkamphoa.com/verify-object-type-before-casting/)
 - [Generics: Basics and Use Cases in Java](https://nkamphoa.com/generics-basics-and-use-cases-in-java/)
-- [Abstract Classes and Interfaces in Java](https://nkamphoa.com/abstract-classes-and-interfaces-in-java/)
-- [Abstract Classes in Java](https://nkamphoa.com/abstract-classes-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
