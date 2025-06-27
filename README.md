@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Queue Implementations in Java: A Comparative Analysis](https://nkamphoa.com/queue-implementations-in-java/)
+- [ArrayDeque: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraydeque-in-java/)
+- [PriorityQueue: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/priorityqueue-in-java/)
 - [Set Implementations in Java: A Comparative Analysis](https://nkamphoa.com/set-implementations-in-java/)
 - [HashSet in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashset-in-java/)
 - [HashMap in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashmap-in-java/)
@@ -21,8 +24,5 @@
 - [CopyOnWriteArrayList in Java: Performance, and Use Cases](https://nkamphoa.com/copyonwritearraylist-in-java/)
 - [LinkedList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/linkedlist-in-java/)
 - [ArrayList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraylist-in-java/)
-- [Collections Framework in Java: What You Need to Know](https://nkamphoa.com/collections-framework-in-java/)
-- [Understand the Factory Method Pattern in Java](https://nkamphoa.com/factory-method-pattern-in-java/)
-- [Override Methods and Use Polymorphism in Java](https://nkamphoa.com/polymorphism-example-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
