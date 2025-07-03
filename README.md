@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Variables Explained: Declaration, Types, and Scope](https://nkamphoa.com/java-variables/)
+- [Java Method: Defining and Calling Methods in Java](https://nkamphoa.com/java-method/)
+- [Java Main Method and Entry Point Explained](https://nkamphoa.com/java-main-method/)
 - [Queue Implementations in Java: A Comparative Analysis](https://nkamphoa.com/queue-implementations-in-java/)
 - [ArrayDeque: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraydeque-in-java/)
 - [PriorityQueue: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/priorityqueue-in-java/)
@@ -21,8 +24,5 @@
 - [HashSet in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashset-in-java/)
 - [HashMap in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashmap-in-java/)
 - [Map Implementations in Java: A Comparative Guide](https://nkamphoa.com/map-implementations-in-java/)
-- [CopyOnWriteArrayList in Java: Performance, and Use Cases](https://nkamphoa.com/copyonwritearraylist-in-java/)
-- [LinkedList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/linkedlist-in-java/)
-- [ArrayList in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraylist-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
