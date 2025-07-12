@@ -14,15 +14,15 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Garbage Collector in Java: Everything You Need to Know](https://nkamphoa.com/java-garbage-collector/)
+- [Memory Locations in Java](https://nkamphoa.com/java-memory-locations/)
+- [Stack and Heap in Java: How Memory Is Allocated and Managed](https://nkamphoa.com/understand-stack-heap-java/)
+- [How Java Passes Parameters: Primitives vs References](https://nkamphoa.com/how-java-passes-parameters/)
 - [Java Variables Explained: Declaration, Types, and Scope](https://nkamphoa.com/java-variables/)
 - [Java Method: Defining and Calling Methods in Java](https://nkamphoa.com/java-method/)
 - [Java Main Method and Entry Point Explained](https://nkamphoa.com/java-main-method/)
 - [Queue Implementations in Java: A Comparative Analysis](https://nkamphoa.com/queue-implementations-in-java/)
 - [ArrayDeque: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraydeque-in-java/)
 - [PriorityQueue: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/priorityqueue-in-java/)
-- [Set Implementations in Java: A Comparative Analysis](https://nkamphoa.com/set-implementations-in-java/)
-- [HashSet in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashset-in-java/)
-- [HashMap in Java: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/hashmap-in-java/)
-- [Map Implementations in Java: A Comparative Guide](https://nkamphoa.com/map-implementations-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
