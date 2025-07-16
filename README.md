@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
+- [This Keyword in Java](https://nkamphoa.com/this-keyword-in-java/)
 - [Garbage Collector in Java: Everything You Need to Know](https://nkamphoa.com/java-garbage-collector/)
 - [Memory Locations in Java](https://nkamphoa.com/java-memory-locations/)
 - [Stack and Heap in Java: How Memory Is Allocated and Managed](https://nkamphoa.com/understand-stack-heap-java/)
@@ -22,7 +24,5 @@
 - [Java Method: Defining and Calling Methods in Java](https://nkamphoa.com/java-method/)
 - [Java Main Method and Entry Point Explained](https://nkamphoa.com/java-main-method/)
 - [Queue Implementations in Java: A Comparative Analysis](https://nkamphoa.com/queue-implementations-in-java/)
-- [ArrayDeque: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/arraydeque-in-java/)
-- [PriorityQueue: Internal Structure, Performance, and Use Cases](https://nkamphoa.com/priorityqueue-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
