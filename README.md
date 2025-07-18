@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
+- [Instanceof Keyword in Java](https://nkamphoa.com/instanceof-keyword-in-java/)
 - [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
 - [This Keyword in Java](https://nkamphoa.com/this-keyword-in-java/)
 - [Garbage Collector in Java: Everything You Need to Know](https://nkamphoa.com/java-garbage-collector/)
@@ -22,7 +24,5 @@
 - [How Java Passes Parameters: Primitives vs References](https://nkamphoa.com/how-java-passes-parameters/)
 - [Java Variables Explained: Declaration, Types, and Scope](https://nkamphoa.com/java-variables/)
 - [Java Method: Defining and Calling Methods in Java](https://nkamphoa.com/java-method/)
-- [Java Main Method and Entry Point Explained](https://nkamphoa.com/java-main-method/)
-- [Queue Implementations in Java: A Comparative Analysis](https://nkamphoa.com/queue-implementations-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
