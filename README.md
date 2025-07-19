@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Types of Polymorphism in Java : Compile-time vs Runtime](https://nkamphoa.com/types-of-polymorphism-in-java/)
+- [Method Overloading in Java](https://nkamphoa.com/overload-method-in-java/)
 - [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
 - [Instanceof Keyword in Java](https://nkamphoa.com/instanceof-keyword-in-java/)
 - [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
@@ -22,7 +24,5 @@
 - [Memory Locations in Java](https://nkamphoa.com/java-memory-locations/)
 - [Stack and Heap in Java: How Memory Is Allocated and Managed](https://nkamphoa.com/understand-stack-heap-java/)
 - [How Java Passes Parameters: Primitives vs References](https://nkamphoa.com/how-java-passes-parameters/)
-- [Java Variables Explained: Declaration, Types, and Scope](https://nkamphoa.com/java-variables/)
-- [Java Method: Defining and Calling Methods in Java](https://nkamphoa.com/java-method/)
 <!-- BLOG-POST-LIST:END -->
 
