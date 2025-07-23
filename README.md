@@ -14,6 +14,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StringBuilder vs StringBuffer in Java](https://nkamphoa.com/stringbuilder-vs-stringbuffer-in-java/)
+- [StringBuffer in Java: A Complete Guide](https://nkamphoa.com/stringbuffer-in-java/)
+- [StringBuilder in Java: A Complete Guide](https://nkamphoa.com/stringbuilder-in-java/)
 - [Types of Polymorphism in Java : Compile-time vs Runtime](https://nkamphoa.com/types-of-polymorphism-in-java/)
 - [Method Overloading in Java](https://nkamphoa.com/overload-method-in-java/)
 - [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
@@ -21,8 +24,5 @@
 - [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
 - [This Keyword in Java](https://nkamphoa.com/this-keyword-in-java/)
 - [Garbage Collector in Java: Everything You Need to Know](https://nkamphoa.com/java-garbage-collector/)
-- [Memory Locations in Java](https://nkamphoa.com/java-memory-locations/)
-- [Stack and Heap in Java: How Memory Is Allocated and Managed](https://nkamphoa.com/understand-stack-heap-java/)
-- [How Java Passes Parameters: Primitives vs References](https://nkamphoa.com/how-java-passes-parameters/)
 <!-- BLOG-POST-LIST:END -->
 
