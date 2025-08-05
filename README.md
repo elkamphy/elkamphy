@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Override the hashCode Method Properly in Java](https://nkamphoa.com/hashcode-method-in-java/)
+- [How to Override the equals Method Properly in Java](https://nkamphoa.com/equals-method-in-java/)
 - [StringBuilder vs StringBuffer in Java](https://nkamphoa.com/stringbuilder-vs-stringbuffer-in-java/)
 - [StringBuffer in Java: A Complete Guide](https://nkamphoa.com/stringbuffer-in-java/)
 - [StringBuilder in Java: A Complete Guide](https://nkamphoa.com/stringbuilder-in-java/)
@@ -22,7 +24,5 @@
 - [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
 - [Instanceof Keyword in Java](https://nkamphoa.com/instanceof-keyword-in-java/)
 - [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
-- [This Keyword in Java](https://nkamphoa.com/this-keyword-in-java/)
-- [Garbage Collector in Java: Everything You Need to Know](https://nkamphoa.com/java-garbage-collector/)
 <!-- BLOG-POST-LIST:END -->
 
