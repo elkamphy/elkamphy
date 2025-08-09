@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Override the toString&lpar;&rpar; Method Properly in Java](https://nkamphoa.com/tostring-method-in-java/)
 - [How to Override the hashCode Method Properly in Java](https://nkamphoa.com/hashcode-method-in-java/)
 - [How to Override the equals Method Properly in Java](https://nkamphoa.com/equals-method-in-java/)
 - [StringBuilder vs StringBuffer in Java](https://nkamphoa.com/stringbuilder-vs-stringbuffer-in-java/)
@@ -23,6 +24,5 @@
 - [Method Overloading in Java](https://nkamphoa.com/overload-method-in-java/)
 - [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
 - [Instanceof Keyword in Java](https://nkamphoa.com/instanceof-keyword-in-java/)
-- [Super Keyword in Java](https://nkamphoa.com/super-keyword-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
