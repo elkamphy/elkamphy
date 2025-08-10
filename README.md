@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://nkamphoa.com/exception-hierarchy-in-java/)
+- [Exception in Java: How It Affects Program Flow](https://nkamphoa.com/exception-in-java/)
 - [How to Override the toString&lpar;&rpar; Method Properly in Java](https://nkamphoa.com/tostring-method-in-java/)
 - [How to Override the hashCode Method Properly in Java](https://nkamphoa.com/hashcode-method-in-java/)
 - [How to Override the equals Method Properly in Java](https://nkamphoa.com/equals-method-in-java/)
@@ -22,7 +24,5 @@
 - [StringBuilder in Java: A Complete Guide](https://nkamphoa.com/stringbuilder-in-java/)
 - [Types of Polymorphism in Java : Compile-time vs Runtime](https://nkamphoa.com/types-of-polymorphism-in-java/)
 - [Method Overloading in Java](https://nkamphoa.com/overload-method-in-java/)
-- [Packages And Imports in Java](https://nkamphoa.com/packages-and-imports-in-java/)
-- [Instanceof Keyword in Java](https://nkamphoa.com/instanceof-keyword-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
