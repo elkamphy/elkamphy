@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Exception Classes: When and How to Create Them](https://nkamphoa.com/custom-exception-in-java/)
 - [Declaring and Throwing Exceptions in Java: A Practical Guide](https://nkamphoa.com/declare-and-throw-exception-in-java/)
 - [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://nkamphoa.com/exception-hierarchy-in-java/)
 - [Exception in Java: How It Affects Program Flow](https://nkamphoa.com/exception-in-java/)
@@ -23,6 +24,5 @@
 - [StringBuilder vs StringBuffer in Java](https://nkamphoa.com/stringbuilder-vs-stringbuffer-in-java/)
 - [StringBuffer in Java: A Complete Guide](https://nkamphoa.com/stringbuffer-in-java/)
 - [StringBuilder in Java: A Complete Guide](https://nkamphoa.com/stringbuilder-in-java/)
-- [Types of Polymorphism in Java : Compile-time vs Runtime](https://nkamphoa.com/types-of-polymorphism-in-java/)
 <!-- BLOG-POST-LIST:END -->
 
