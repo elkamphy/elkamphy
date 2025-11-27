@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Iterators and the for-each Loop Safely](https://nkamphoa.com/using-iterators-and-for-each-loop-safely/?utm_source=rss&utm_medium=rss&utm_campaign=using-iterators-and-for-each-loop-safely)
 - [The Comparator Interface in Java](https://nkamphoa.com/the-comparator-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparator-interface-in-java)
 - [The Comparable Interface in Java](https://nkamphoa.com/the-comparable-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparable-interface-in-java)
 - [Checked vs Unchecked Exceptions in Java](https://nkamphoa.com/checked-vs-unchecked-exceptions/?utm_source=rss&utm_medium=rss&utm_campaign=checked-vs-unchecked-exceptions)
@@ -23,6 +24,5 @@
 - [Exception in Java: How It Affects Program Flow](https://nkamphoa.com/exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=exception-in-java)
 - [How to Override the toString&lpar;&rpar; Method Properly in Java](https://nkamphoa.com/tostring-method-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=tostring-method-in-java)
 - [How to Override the hashCode Method Properly in Java](https://nkamphoa.com/hashcode-method-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=hashcode-method-in-java)
-- [How to Override the equals Method Properly in Java](https://nkamphoa.com/equals-method-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=equals-method-in-java)
 <!-- BLOG-POST-LIST:END -->
 
