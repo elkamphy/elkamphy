@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nested Classes in Java: Static, Inner, Local, Anonymous](https://nkamphoa.com/nested-classes-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-in-java)
 - [Access Collections Concurrently: Two Java Approaches](https://nkamphoa.com/access-collections-concurrently-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=access-collections-concurrently-in-java)
 - [Sort Collections With Comparable and Comparator](https://nkamphoa.com/sort-collections-with-comparable-and-comparator/?utm_source=rss&utm_medium=rss&utm_campaign=sort-collections-with-comparable-and-comparator)
 - [Using Iterators and the for-each Loop Safely](https://nkamphoa.com/using-iterators-and-for-each-loop-safely/?utm_source=rss&utm_medium=rss&utm_campaign=using-iterators-and-for-each-loop-safely)
@@ -23,6 +24,5 @@
 - [Custom Exception Classes: When and How to Create Them](https://nkamphoa.com/custom-exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=custom-exception-in-java)
 - [Declaring and Throwing Exceptions in Java: A Practical Guide](https://nkamphoa.com/declare-and-throw-exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=declare-and-throw-exception-in-java)
 - [Exception Hierarchy in Java: Checked, Unchecked, and Errors](https://nkamphoa.com/exception-hierarchy-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=exception-hierarchy-in-java)
-- [Exception in Java: How It Affects Program Flow](https://nkamphoa.com/exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=exception-in-java)
 <!-- BLOG-POST-LIST:END -->
 
