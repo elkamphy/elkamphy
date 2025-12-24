@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
+- [Creating and Consuming Streams in Java](https://nkamphoa.com/creating-streams-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=creating-streams-in-java)
 - [Functional Interfaces and Lambda Expressions](https://nkamphoa.com/functional-interfaces-and-lambdas/?utm_source=rss&utm_medium=rss&utm_campaign=functional-interfaces-and-lambdas)
 - [Nested Classes in Java: Static, Inner, Local, Anonymous](https://nkamphoa.com/nested-classes-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-in-java)
 - [Access Collections Concurrently: Two Java Approaches](https://nkamphoa.com/access-collections-concurrently-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=access-collections-concurrently-in-java)
@@ -22,7 +24,5 @@
 - [The Comparator Interface in Java](https://nkamphoa.com/the-comparator-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparator-interface-in-java)
 - [The Comparable Interface in Java](https://nkamphoa.com/the-comparable-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparable-interface-in-java)
 - [Checked vs Unchecked Exceptions in Java](https://nkamphoa.com/checked-vs-unchecked-exceptions/?utm_source=rss&utm_medium=rss&utm_campaign=checked-vs-unchecked-exceptions)
-- [Custom Exception Classes: When and How to Create Them](https://nkamphoa.com/custom-exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=custom-exception-in-java)
-- [Declaring and Throwing Exceptions in Java: A Practical Guide](https://nkamphoa.com/declare-and-throw-exception-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=declare-and-throw-exception-in-java)
 <!-- BLOG-POST-LIST:END -->
 
