@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stream Operations and Pipelines Explained](https://nkamphoa.com/stream-operations-and-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=stream-operations-and-pipelines)
 - [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
 - [Creating and Consuming Streams in Java](https://nkamphoa.com/creating-streams-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=creating-streams-in-java)
 - [Functional Interfaces and Lambda Expressions](https://nkamphoa.com/functional-interfaces-and-lambdas/?utm_source=rss&utm_medium=rss&utm_campaign=functional-interfaces-and-lambdas)
@@ -23,6 +24,5 @@
 - [Using Iterators and the for-each Loop Safely](https://nkamphoa.com/using-iterators-and-for-each-loop-safely/?utm_source=rss&utm_medium=rss&utm_campaign=using-iterators-and-for-each-loop-safely)
 - [The Comparator Interface in Java](https://nkamphoa.com/the-comparator-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparator-interface-in-java)
 - [The Comparable Interface in Java](https://nkamphoa.com/the-comparable-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparable-interface-in-java)
-- [Checked vs Unchecked Exceptions in Java](https://nkamphoa.com/checked-vs-unchecked-exceptions/?utm_source=rss&utm_medium=rss&utm_campaign=checked-vs-unchecked-exceptions)
 <!-- BLOG-POST-LIST:END -->
 
