@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bi-Argument Functional Interfaces in the Stream API](https://nkamphoa.com/bi-argument-functional-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=bi-argument-functional-interfaces)
+- [Aggregating Stream Data Using the reduce Operation](https://nkamphoa.com/reduce-operation-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=reduce-operation-in-java)
 - [Stream Operations and Pipelines Explained](https://nkamphoa.com/stream-operations-and-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=stream-operations-and-pipelines)
 - [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
 - [Creating and Consuming Streams in Java](https://nkamphoa.com/creating-streams-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=creating-streams-in-java)
@@ -22,7 +24,5 @@
 - [Access Collections Concurrently: Two Java Approaches](https://nkamphoa.com/access-collections-concurrently-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=access-collections-concurrently-in-java)
 - [Sort Collections With Comparable and Comparator](https://nkamphoa.com/sort-collections-with-comparable-and-comparator/?utm_source=rss&utm_medium=rss&utm_campaign=sort-collections-with-comparable-and-comparator)
 - [Using Iterators and the for-each Loop Safely](https://nkamphoa.com/using-iterators-and-for-each-loop-safely/?utm_source=rss&utm_medium=rss&utm_campaign=using-iterators-and-for-each-loop-safely)
-- [The Comparator Interface in Java](https://nkamphoa.com/the-comparator-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparator-interface-in-java)
-- [The Comparable Interface in Java](https://nkamphoa.com/the-comparable-interface-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=the-comparable-interface-in-java)
 <!-- BLOG-POST-LIST:END -->
 
