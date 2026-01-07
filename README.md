@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spliterator Explained: The Engine Behind Streams](https://nkamphoa.com/spliterator-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=spliterator-in-java)
 - [Parallel Stream Processing: Performance and Risks](https://nkamphoa.com/parallel-stream-processing/?utm_source=rss&utm_medium=rss&utm_campaign=parallel-stream-processing)
 - [Bi-Argument Functional Interfaces in the Stream API](https://nkamphoa.com/bi-argument-functional-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=bi-argument-functional-interfaces)
 - [Aggregating Stream Data Using the reduce Operation](https://nkamphoa.com/reduce-operation-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=reduce-operation-in-java)
@@ -23,6 +24,5 @@
 - [Functional Interfaces and Lambda Expressions](https://nkamphoa.com/functional-interfaces-and-lambdas/?utm_source=rss&utm_medium=rss&utm_campaign=functional-interfaces-and-lambdas)
 - [Nested Classes in Java: Static, Inner, Local, Anonymous](https://nkamphoa.com/nested-classes-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-in-java)
 - [Access Collections Concurrently: Two Java Approaches](https://nkamphoa.com/access-collections-concurrently-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=access-collections-concurrently-in-java)
-- [Sort Collections With Comparable and Comparator](https://nkamphoa.com/sort-collections-with-comparable-and-comparator/?utm_source=rss&utm_medium=rss&utm_campaign=sort-collections-with-comparable-and-comparator)
 <!-- BLOG-POST-LIST:END -->
 
