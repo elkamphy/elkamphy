@@ -14,6 +14,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serialize an Object Graph: Understanding Java Serialization](https://nkamphoa.com/serializable-object-graph-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=serializable-object-graph-in-java)
+- [Java IO API: What You Need To Know](https://nkamphoa.com/java-io-api/?utm_source=rss&utm_medium=rss&utm_campaign=java-io-api)
 - [Spliterator Explained: The Engine Behind Streams](https://nkamphoa.com/spliterator-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=spliterator-in-java)
 - [Parallel Stream Processing: Performance and Risks](https://nkamphoa.com/parallel-stream-processing/?utm_source=rss&utm_medium=rss&utm_campaign=parallel-stream-processing)
 - [Bi-Argument Functional Interfaces in the Stream API](https://nkamphoa.com/bi-argument-functional-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=bi-argument-functional-interfaces)
@@ -22,7 +24,5 @@
 - [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
 - [Creating and Consuming Streams in Java](https://nkamphoa.com/creating-streams-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=creating-streams-in-java)
 - [Functional Interfaces and Lambda Expressions](https://nkamphoa.com/functional-interfaces-and-lambdas/?utm_source=rss&utm_medium=rss&utm_campaign=functional-interfaces-and-lambdas)
-- [Nested Classes in Java: Static, Inner, Local, Anonymous](https://nkamphoa.com/nested-classes-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-in-java)
-- [Access Collections Concurrently: Two Java Approaches](https://nkamphoa.com/access-collections-concurrently-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=access-collections-concurrently-in-java)
 <!-- BLOG-POST-LIST:END -->
 
