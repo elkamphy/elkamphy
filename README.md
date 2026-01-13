@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Filesystems in Java](https://nkamphoa.com/working-with-filesystems-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-filesystems-in-java)
 - [Serialize an Object Graph: Understanding Java Serialization](https://nkamphoa.com/serializable-object-graph-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=serializable-object-graph-in-java)
 - [Java IO API: What You Need To Know](https://nkamphoa.com/java-io-api/?utm_source=rss&utm_medium=rss&utm_campaign=java-io-api)
 - [Spliterator Explained: The Engine Behind Streams](https://nkamphoa.com/spliterator-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=spliterator-in-java)
@@ -23,6 +24,5 @@
 - [Stream Operations and Pipelines Explained](https://nkamphoa.com/stream-operations-and-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=stream-operations-and-pipelines)
 - [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
 - [Creating and Consuming Streams in Java](https://nkamphoa.com/creating-streams-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=creating-streams-in-java)
-- [Functional Interfaces and Lambda Expressions](https://nkamphoa.com/functional-interfaces-and-lambdas/?utm_source=rss&utm_medium=rss&utm_campaign=functional-interfaces-and-lambdas)
 <!-- BLOG-POST-LIST:END -->
 
