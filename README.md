@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lambda Expression Syntax: Parameters and Body Explained](https://nkamphoa.com/lambda-expression-syntax-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-expression-syntax-in-java)
 - [Deleting Paths Safely in Java](https://nkamphoa.com/delete-paths-safely-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=delete-paths-safely-in-java)
 - [Working with Filesystems in Java](https://nkamphoa.com/working-with-filesystems-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-filesystems-in-java)
 - [Serialize an Object Graph: Understanding Java Serialization](https://nkamphoa.com/serializable-object-graph-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=serializable-object-graph-in-java)
@@ -23,6 +24,5 @@
 - [Bi-Argument Functional Interfaces in the Stream API](https://nkamphoa.com/bi-argument-functional-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=bi-argument-functional-interfaces)
 - [Aggregating Stream Data Using the reduce Operation](https://nkamphoa.com/reduce-operation-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=reduce-operation-in-java)
 - [Stream Operations and Pipelines Explained](https://nkamphoa.com/stream-operations-and-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=stream-operations-and-pipelines)
-- [Java Stream API: What It Is &lpar;and What It Is Not&rpar;](https://nkamphoa.com/stream-api-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=stream-api-in-java)
 <!-- BLOG-POST-LIST:END -->
 
