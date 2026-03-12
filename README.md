@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 25 New Features](https://nkamphoa.com/java-25-new-features/?utm_source=rss&utm_medium=rss&utm_campaign=java-25-new-features)
 - [Constructors in Java: Definition, Types, and Best Practices](https://nkamphoa.com/constructors-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=constructors-in-java)
 - [Nested Classes vs Lambda Expressions: When to Use Each](https://nkamphoa.com/nested-classes-vs-lambda-expressions/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-vs-lambda-expressions)
 - [Lambda Expression Syntax: Parameters and Body Explained](https://nkamphoa.com/lambda-expression-syntax-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-expression-syntax-in-java)
@@ -23,6 +24,5 @@
 - [Java IO API: What You Need To Know](https://nkamphoa.com/java-io-api/?utm_source=rss&utm_medium=rss&utm_campaign=java-io-api)
 - [Spliterator Explained: The Engine Behind Streams](https://nkamphoa.com/spliterator-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=spliterator-in-java)
 - [Parallel Stream Processing: Performance and Risks](https://nkamphoa.com/parallel-stream-processing/?utm_source=rss&utm_medium=rss&utm_campaign=parallel-stream-processing)
-- [Bi-Argument Functional Interfaces in the Stream API](https://nkamphoa.com/bi-argument-functional-interfaces/?utm_source=rss&utm_medium=rss&utm_campaign=bi-argument-functional-interfaces)
 <!-- BLOG-POST-LIST:END -->
 
