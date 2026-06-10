@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thread Lifecycle in Java](https://nkamphoa.com/thread-lifecycle-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-lifecycle-in-java)
 - [How to Create a Thread in Java](https://nkamphoa.com/how-to-create-a-thread-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-thread-in-java)
 - [Java 25 New Features](https://nkamphoa.com/java-25-new-features/?utm_source=rss&utm_medium=rss&utm_campaign=java-25-new-features)
 - [Constructors in Java: Definition, Types, and Best Practices](https://nkamphoa.com/constructors-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=constructors-in-java)
@@ -23,6 +24,5 @@
 - [Working with Filesystems in Java](https://nkamphoa.com/working-with-filesystems-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-filesystems-in-java)
 - [Serialize an Object Graph: Understanding Java Serialization](https://nkamphoa.com/serializable-object-graph-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=serializable-object-graph-in-java)
 - [Java IO API: What You Need To Know](https://nkamphoa.com/java-io-api/?utm_source=rss&utm_medium=rss&utm_campaign=java-io-api)
-- [Spliterator Explained: The Engine Behind Streams](https://nkamphoa.com/spliterator-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=spliterator-in-java)
 <!-- BLOG-POST-LIST:END -->
 
