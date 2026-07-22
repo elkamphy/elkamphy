@@ -14,6 +14,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thread Communication in Java](https://nkamphoa.com/thread-communication-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-communication-in-java)
 - [Thread Synchronization in Java](https://nkamphoa.com/thread-synchronization-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-synchronization-in-java)
 - [Thread Lifecycle in Java](https://nkamphoa.com/thread-lifecycle-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-lifecycle-in-java)
 - [How to Create a Thread in Java](https://nkamphoa.com/how-to-create-a-thread-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-thread-in-java)
@@ -23,6 +24,5 @@
 - [Lambda Expression Syntax: Parameters and Body Explained](https://nkamphoa.com/lambda-expression-syntax-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-expression-syntax-in-java)
 - [Deleting Paths Safely in Java](https://nkamphoa.com/delete-paths-safely-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=delete-paths-safely-in-java)
 - [Working with Filesystems in Java](https://nkamphoa.com/working-with-filesystems-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=working-with-filesystems-in-java)
-- [Serialize an Object Graph: Understanding Java Serialization](https://nkamphoa.com/serializable-object-graph-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=serializable-object-graph-in-java)
 <!-- BLOG-POST-LIST:END -->
 
