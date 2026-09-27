@@ -14,11 +14,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ExecutorService in Java](https://nkamphoa.com/executor-service-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=executor-service-in-java)
 - [Thread Communication in Java](https://nkamphoa.com/thread-communication-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-communication-in-java)
 - [Thread Synchronization in Java](https://nkamphoa.com/thread-synchronization-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-synchronization-in-java)
 - [Thread Lifecycle in Java](https://nkamphoa.com/thread-lifecycle-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=thread-lifecycle-in-java)
 - [How to Create a Thread in Java](https://nkamphoa.com/how-to-create-a-thread-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-thread-in-java)
-- [Java 25 New Features](https://nkamphoa.com/java-25-new-features/?utm_source=rss&utm_medium=rss&utm_campaign=java-25-new-features)
 - [Constructors in Java: Definition, Types, and Best Practices](https://nkamphoa.com/constructors-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=constructors-in-java)
 - [Nested Classes vs Lambda Expressions: When to Use Each](https://nkamphoa.com/nested-classes-vs-lambda-expressions/?utm_source=rss&utm_medium=rss&utm_campaign=nested-classes-vs-lambda-expressions)
 - [Lambda Expression Syntax: Parameters and Body Explained](https://nkamphoa.com/lambda-expression-syntax-in-java/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-expression-syntax-in-java)
